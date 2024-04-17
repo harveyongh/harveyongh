@@ -1,10 +1,5 @@
-- Hey, y'all! I’m Harvey, aka @harveyongh
-- I have been trying to learn to code for years, but it never stuck. I have some ambitious goals in mind as of 2022. Too ambitious, maybe?
-- Right now, I am learning Python, SQL, JS, and C.
-- I’m hoping one day I can make something that makes someone's life easier. For now, I'm just looking to learn.
+Hey, all! I’m Harvey.
+I have been coding for a few years at this point. I picked up coding several years back while working at a call center. 
+I've mostly worked in Python for projects, but I have experience in C++ and SQL as well. I also write my own bash scripts from time to time.
 
 - If you need to reach me for whatever reason, you can email me: harveygit@pm.me
-
-<!---
-this is a message just for me: hope you're doing ok
---->
